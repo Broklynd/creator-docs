@@ -35,7 +35,7 @@ To install Roblox Studio on your Windows or Mac computer:
 
 1. Find the Studio installer in your browser's download history and double-click the file.
 
-   - On Windows, the file is `RobloxStudio.exe`.
+   - On Windows, the file is `RobloxStudio.ex
    - On Mac, the file is `RobloxStudio.dmg`.
 
 1. After Studio finishes installing, a pop-up confirmation displays. Click the **Launch&nbsp;Studio** button.
